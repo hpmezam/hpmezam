@@ -17,18 +17,20 @@
 <a href = "mailto:hmeza4091@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-A **Software Engineering Student** 🚀 from Ecuador.
+A **Software Engineer** 🚀 from Ecuador.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" top="500" height="300" width="400" alt="GIF"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-**About Me!**
+**🧠 About Me**
 
-- 👨🏽‍💻 I study at the Universidad Técnica del Norte.
-- 🌱 I’m currently deepening my knowledge in Python as part of the development of my thesis, which focuses on drowsiness detection by identifying facial landmarks using a transformer-based neural network, specifically Deformable DETR.
-- 🤔 I’m interested in computer vision, especially in the development of neural network-based models for real-time detection and tracking tasks.
-- 💼 I’m pursuing a degree in Software Engineering.
-- 💬 Ask me about anything, I love to answer!
+- 👨🏽‍🎓 Graduated from the Universidad Técnica del Norte
+- 🐍 Strong knowledge of Python, focused on Machine Learning and Deep Learning.
+- 👁️ Passionate about Computer Vision, especially in the development of Transformer-based models for real-time detection and tracking.
+- ⚙️ I love creating solutions that integrate AI and computer vision in a sustainable way.
+
+**📫 Contact me**
+
 - 📫 Email me at [hmeza4091@gmail.com](mailto:hmeza4091@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
