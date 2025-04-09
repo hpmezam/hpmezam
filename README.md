@@ -11,9 +11,9 @@
 </a> -->
 <p align="left">
   <a href="https://www.youtube.com/@DeepVisionH2M" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href=" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href="# target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href="3" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "mailto:hmeza4091@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
@@ -25,7 +25,7 @@ A **Software Engineer** 🚀 from Ecuador.
 **🧠 About Me**
 
 - 👨🏽‍🎓 Graduated from the Universidad Técnica del Norte
-- 🐍 Strong knowledge of Python, focused on Machine Learning and Deep Learning.
+- 🐍 Solid knowledge of Python with a focus on Machine Learning and Deep Learning.
 - 👁️ Passionate about Computer Vision, especially in the development of Transformer-based models for real-time detection and tracking.
 - ⚙️ I love creating solutions that integrate AI and computer vision in a sustainable way.
 
@@ -34,6 +34,11 @@ A **Software Engineer** 🚀 from Ecuador.
 - 📫 Email me at [hmeza4091@gmail.com](mailto:hmeza4091@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
+**🌱 Currently developing…**
+
+- 🚧 A computer vision platform: DeepVisionH2M.
+- 🤖 AI models for detecting drowsiness in drivers.
+- 🧪 Prototypes for real-time eye detection and classification using RT-DETR.
 
 <h3>🧰 Frameworks and Libraries</h3>
 <p>
@@ -41,8 +46,9 @@ A **Software Engineer** 🚀 from Ecuador.
     <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white"></a>
+    <a href="https://github.com/typicode/rest.js" target="_blank"><img alt="REST.js" src="https://img.shields.io/badge/REST.js-000000?style=flat&logo=javascript&logoColor=white"></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white"></a>
 </p>
 <h3>💻 Software and Tools</h3>
 
@@ -53,6 +59,8 @@ A **Software Engineer** 🚀 from Ecuador.
     <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://www.opencv.org/" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
+</a>
 </p>
 <h3>💻 Languagues</h3>
 <p>
@@ -70,7 +78,13 @@ A **Software Engineer** 🚀 from Ecuador.
 </a>
 </p>
 <div id="proyectos">
-  
-  <h2 >Algunos proyectos👨🏻‍💻</h2>
+
+<h3>🚀 Projects</h3>
+<ul>
+  <li><strong>DeepVisionH2M</strong>: A computer vision platform to test and deploy AI models.</li>
+  <li><strong>Drowsiness Detection System</strong>: Real-time eye tracking and drowsiness detection using RT-DETR.</li>
+</ul>
+
+
 
  
